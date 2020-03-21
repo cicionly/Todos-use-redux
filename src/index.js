@@ -8,7 +8,7 @@ import Todo from './component/Todo';
 ReactDOM.render(
     <div>
         <Todo />
-        <Counter/>
+        {/* <Counter/> */}
     </div>, document.getElementById('root'));
 
 
